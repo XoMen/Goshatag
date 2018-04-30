@@ -1,0 +1,9 @@
+F:\visual_stadio\goshatag\goshatag\goshatag\bin\Debug\goshatag.exe
+F:\visual_stadio\goshatag\goshatag\goshatag\bin\Debug\goshatag.pdb
+F:\visual_stadio\goshatag\goshatag\goshatag\obj\Debug\goshatag.csprojResolveAssemblyReference.cache
+F:\visual_stadio\goshatag\goshatag\goshatag\obj\Debug\goshatag.Form1.resources
+F:\visual_stadio\goshatag\goshatag\goshatag\obj\Debug\goshatag.Properties.Resources.resources
+F:\visual_stadio\goshatag\goshatag\goshatag\obj\Debug\goshatag.csproj.GenerateResource.cache
+F:\visual_stadio\goshatag\goshatag\goshatag\obj\Debug\goshatag.csproj.CoreCompileInputs.cache
+F:\visual_stadio\goshatag\goshatag\goshatag\obj\Debug\goshatag.exe
+F:\visual_stadio\goshatag\goshatag\goshatag\obj\Debug\goshatag.pdb
