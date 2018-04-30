@@ -7,7 +7,7 @@ It's a very funny project that help you to search and replace morethan one tag.
 
 Idea : Realxoman (Ali Esmaeili)
 
-programmer : Hadi Ebrahimi
+Programmer : Hadi Ebrahimi
 
 # Download
 
