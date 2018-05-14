@@ -5,9 +5,9 @@
 
 # سازندگان
 
-ایده :  [(علی اسمعیلی)](https://realxoman.com)
+ایده :  [علی اسمعیلی](https://github.com/realxoman)
 
-برنامه نویس : هادی ابراهیمی
+برنامه نویس : [هادی ابراهیمی](https://github.com/hadi73ebrahimi) 
 
 # دانلود
 
